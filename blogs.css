@@ -1,0 +1,44 @@
+body {
+    background:#FFFCF9;
+    font-family: 'Zilla Slab', serif;
+}
+#header {
+    background: url("blogsimg/finalesttblog.png") center center / cover no-repeat; 
+    font-family: 'Zilla Slab', serif;
+    color:azure;
+}
+#typewriter{
+    font-family:'Zilla Slab', serif;
+    color:black;
+    font-size: 4rem;
+    font-weight: bolder;
+    padding-top: 0rem;
+    padding-left: 3rem;
+
+    
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight:bold;    
+}
+
+#mainNavbar .nav-link {
+    color: #D16014;
+}
+
+#mainNavbar .nav-link:hover {
+    color:#FCD757;
+}
+
+#mainNavbar .navbar-brand {
+    color: #E26D5A;
+    font-size: 1.5rem;
+}
+
+.navbar.scrolled {
+    background: black;
+    transition: background 500ms;
+}
+
+
